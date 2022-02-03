@@ -1,9 +1,9 @@
 {
-	"ip":"subscribevanevgt.aternos.me",
-	"port": "00000",
-	"name": "namabot",
+	"ip":"PhonixBW.aternos.me",
+	"port": 0000048754",
+	"name": "PhonixBWBOT",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register huhuhu ",
-	"login-cmd":"/login huhuhu "
+	"register-cmd":"/register Phonix ",
+	"login-cmd":"/login Phonix "
 }
